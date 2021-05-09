@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+### `Login-app`
+Login hecho con React aplicando Formik y Yup para la creacion y validacion del formulario, y para darle estilo al mismo se uso StyledComponents (formulario y footer) junto Boostrap (botones). Esto solo es una prueba de la busqueda autodidacta que tuve y mas adelante mejorare tanto el estilo y el funcionamiento del mismo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
